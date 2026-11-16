@@ -20,6 +20,16 @@
   <sub>November 2026 · Lovable, ChatGPT, Claude</sub>
 </p>
 
+<p>
+  <a href="https://github.com/redefiningvicky/TagFlip-HTML">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://tagflip-html.lovable.app">
+    Launch App
+  </a>
+</p>
+
 <br>
 
 <h3>
