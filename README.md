@@ -6,6 +6,91 @@
 </div>
 
 <h3>
+  🔬
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1">
+    R Neurohacking Part 1
+  </a>
+</h3>
+
+<p>
+  A neuroimaging workflow for processing,
+  analyzing, and visualizing structural brain MRI data.
+</p>
+
+<p>
+  <sub>August 2025 · R</sub>
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1">
+    View Project
+  </a>
+  &nbsp; • &nbsp;
+  <strong> View R:</strong>
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_01/R_Neurohacking_Part_01.Rmd">
+    1
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_02/R_Neurohacking_Part_02.Rmd">
+    2
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_03/R_Neurohacking_Part_03.Rmd">
+    3
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_04/R_Neurohacking_Part_04.Rmd">
+    4
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_05/R_Neurohacking_Part_05.Rmd">
+    5
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_06/R_Neurohacking_Part_06.Rmd">
+    6
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_07/R_Neurohacking_Part_07.Rmd">
+    7
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_08/R_Neurohacking_Part_08.Rmd">
+    8
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_09/R_Neurohacking_Part_09.Rmd">
+    9
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_10/R_Neurohacking_Part_10.Rmd">
+    10
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_11/R_Neurohacking_Part_11.Rmd">
+    11
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_12/R_Neurohacking_Part_12.Rmd">
+    12
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_13/R_Neurohacking_Part_13.Rmd">
+    13
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_14/R_Neurohacking_Part_14.Rmd">
+    14
+  </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/redefiningvicky/R-Neurohacking-Part-1/blob/main/R_Neurohacking_Results_Part_15/R_Neurohacking_Part_15.Rmd">
+    15
+  </a>
+</p>
+
+<br>
+
+<h3>
   ⚡
   <a href="https://github.com/redefiningvicky/The-Power-of-One-Voice">
     The Power of One Voice
