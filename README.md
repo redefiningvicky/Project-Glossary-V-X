@@ -6,29 +6,6 @@
 </div>
 
 <h3>
-  🏠
-  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage-Board-Game">
-    Nutmeg & Ginger’s Cottage: Board Game Edition
-  </a>
-</h3>
-
-<p>
-  A cooperative fairytale board game concept built around logic riddles.
-</p>
-
-<p>
-  <sub>November 2026 · ChatGPT</sub>
-</p>
-
-<p>
-  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage-Board-Game">
-    View Project
-  </a>
-</p>
-
-<br>
-
-<h3>
   ⚡
   <a href="https://github.com/redefiningvicky/The-Power-of-One-Voice">
     The Power of One Voice
@@ -135,3 +112,5 @@
     View PPTX
   </a>
 </p>
+
+<br>
