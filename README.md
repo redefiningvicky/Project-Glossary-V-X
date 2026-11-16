@@ -171,5 +171,3 @@
     View Startups
   </a>
 </p>
-
-<br>
